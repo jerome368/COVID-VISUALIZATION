@@ -23,5 +23,4 @@ DataSet selection :
 Note : 
 The R-shiny Application is built and deployed on Shinyapps.io
 
-Url -https://tanya-dashboard.shinyapps.io/covid19_visualisation/_w_5a7ef579/
 
