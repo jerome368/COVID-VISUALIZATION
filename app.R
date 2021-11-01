@@ -23,10 +23,10 @@ exitFS.call(document);
 }
 }'
 
-source("appFiles/packageLoad.R")
-source("appFiles/dataLoad.R")
-source("appFiles/CSS.R", local = TRUE)
-source("appFiles/dashboardPage.R", local = TRUE)
+source("files/packageLoad.R")
+source("files/dataLoad.R")
+source("files/CSS.R", local = TRUE)
+source("files/dashboardPage.R", local = TRUE)
 ##### User interface #####
 ui <- tagList( # dependencies
   use_waiter(),
